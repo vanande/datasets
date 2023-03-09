@@ -1,0 +1,55 @@
+{
+   "version": "1.1",
+   "data": [
+      {
+         "title": "Les chevaliers et la chevalerie",
+         "paragraphs": [
+            {
+               "context": "La chevalerie est une institution qui est née au Moyen Âge en Europe occidentale. Les chevaliers étaient des guerriers d'élite qui étaient généralement issus de la noblesse. Leur formation débutait dès leur plus jeune âge et ils étaient entraînés dans l'art du combat à cheval ainsi que dans l'art de manier les armes. Les chevaliers étaient également des hommes de vertu, honorables et courtois, et ils étaient tenus de suivre un code moral strict, connu sous le nom de code de chevalerie. Les exploits des chevaliers étaient souvent célébrés dans les récits épiques de l'époque, comme la légende du roi Arthur et des chevaliers de la Table Ronde.",
+               "qas": [
+                  {
+                     "question": "Qu'est-ce que la chevalerie ?",
+                     "id": "1",
+                     "answers": [
+                        {
+                           "text": "La chevalerie est une institution qui est née au Moyen Âge en Europe occidentale.",
+                           "answer_start": 0
+                        }
+                     ]
+                  },
+                  {
+                     "question": "Qui étaient les chevaliers ?",
+                     "id": "2",
+                     "answers": [
+                        {
+                           "text": "Les chevaliers étaient des guerriers d'élite qui étaient généralement issus de la noblesse.",
+                           "answer_start": 34
+                        }
+                     ]
+                  },
+                  {
+                     "question": "Quel était le code moral suivi par les chevaliers ?",
+                     "id": "3",
+                     "answers": [
+                        {
+                           "text": "Les chevaliers étaient tenus de suivre un code moral strict, connu sous le nom de code de chevalerie.",
+                           "answer_start": 175
+                        }
+                     ]
+                  },
+                  {
+                     "question": "Quelle est une légende connue impliquant des chevaliers ?",
+                     "id": "4",
+                     "answers": [
+                        {
+                           "text": "La légende du roi Arthur et des chevaliers de la Table Ronde.",
+                           "answer_start": 290
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
